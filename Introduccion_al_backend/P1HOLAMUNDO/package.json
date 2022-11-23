@@ -1,0 +1,11 @@
+{
+  "name": "holamundo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "start"
+  },
+  "author": "Armando9576",
+  "license": "ISC"
+}
